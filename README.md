@@ -18,3 +18,10 @@ some parts of the code is borrowed from Prof Craig Macdonald
 4. Popularity based Recommenders
 5. Implicit Recommendation
 6. BPR
+
+**ReSys_3:**
+1. Explicit & Implicit Matrix Factorisation Models
+2. Hybrid Models
+3. Evaluating and Examining the Non-Personalised models
+4. Measuring Intra list diversity
+5. MMR Diversification
